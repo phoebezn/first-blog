@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客 on My Blog</title>
+    <link>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/first_post/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first_post/</guid>
+      <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h3&gt;&#xA;&lt;p&gt;First day with freedom!&#xA;Today is the first time in many years, that I don&amp;rsquo;t have to worry about a corporate job.&lt;/p&gt;&#xA;&lt;p&gt;First time, I really commit to writing.&lt;/p&gt;&#xA;&lt;h3 id=&#34;博客搭建的第一天&#34;&gt;博客搭建的第一天&lt;/h3&gt;&#xA;&lt;p&gt;通过这个&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;Hugo新手教程&lt;/a&gt;搭建了第一个博客。&#xA;theme 虽然很想用 &lt;code&gt;PaperMod&lt;/code&gt;，但是在安装过程中卡住了，所以选择了&lt;code&gt;ananke&lt;/code&gt;，确实更加简单。之后或许会继续更改吧。&#xA;&lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;Hugo Themes&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;离职不代表不写代码，未来的路，代码也许还会在生命里时常出现。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://x.com/RayDalio/status/1909296189473693729&#34;&gt;Don&amp;rsquo;t Make the Mistake of Thinking That What&amp;rsquo;s Now Happening is Mostly About Tariffs - Ray Dalio&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;今天去参加了一个介绍年金和保险的Financial Advisor的讲座，我听到一半就无法集中精力了。一直在凳子上扭来扭去。一方面是我完全没有预料到这个内容会全是关于某一个理财产品，这个活动组织者完全没有把这个内容放在宣传的文案里面，让我觉得有一种挂羊头卖狗肉的感觉，再加上我对于理财产品的推介会，总有一种警铃大作感觉。毕竟我是真实上过当的人。2015-2025这一个十年，或许不长，也就是一个经济周期，说长也长，这是我从学校踏出来，自力更生，追求Financial independent的第一个十年。十年前的这个时候，我开始找人生的第一份实习，向学校教授推销自己，拿到第一个实习。也是十年前的这个时候，我从一个朋友口中听到了一个所谓的非常划算的产品，然后开始踩理财的第一个坑。十年间，能想到的坑可以说是两个半？那半个不确定是不是坑，但是从非理财角度，确实是一个坑，每一个坑都是一个教训。理财产品的复杂性和这个产品的好坏往往不成正比，但是在宣传的过程中，把产品的复杂性和稀缺性作为一个营销点对我来说就是一个巨大的red flag。每个人确实都需要在这方面花时间去思考，到底什么样的理财才是适合自己的，但是在很多卖金融产品的人那里，我很少看到对这个点的把控，如果在营销的过程中，一再地通过散播焦虑，利用人的fear of missing out的心理来宣传自己的产品，那么这个宣传的效果就会大打折扣。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
