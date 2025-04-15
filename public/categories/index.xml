@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on My Blog</title>
+    <title>Categories on 菲比的空间</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on My Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <description>Recent content in Categories on 菲比的空间</description>
+    <generator>Hugo -- 0.146.4</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>技术</title>
       <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>日记</title>
+      <link>http://localhost:1313/categories/%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%97%A5%E8%AE%B0/</guid>
       <description></description>
     </item>
   </channel>

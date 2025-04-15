@@ -1,0 +1,4 @@
+baseURL: 'https://example.org/'
+languageCode: 'zh'
+title: '菲比的空间'
+theme: ['PaperMod']
