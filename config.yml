@@ -2,3 +2,24 @@ baseURL: 'https://example.org/'
 languageCode: 'zh'
 title: '菲比的空间'
 theme: ['PaperMod']
+menu:
+  main:
+    - identifier: categories
+      name: 类别
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: 标签
+      url: /tags/
+      weight: 20
+params:
+  ShowToc: true
+  TocOpen: true
+  homeInfoParams:
+    Title: 你好 👋
+    Content: 欢迎来到菲比的空间...
+
+  socialIcons: # optional
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/phoebezn/first-blog"

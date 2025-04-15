@@ -100,12 +100,44 @@
             </div>
         </div>
         <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/categories/" title="类别">
+                    <span>类别</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/tags/" title="标签">
+                    <span>标签</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
 <main class="main"> 
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>你好 👋</h1>
+    </header>
+    <div class="entry-content">
+        欢迎来到菲比的空间&hellip;
+    </div>
+    <footer class="entry-footer">
+        <div class="social-icons" >
+    <a href="https://github.com/phoebezn/first-blog" target="_blank" rel="noopener noreferrer me"
+        title="View Source on Github">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path
+        d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+    </path>
+</svg>
+    </a>
+</div>
 
-<article class="first-entry"> 
+    </footer>
+</article>
+
+<article class="post-entry"> 
   <header class="entry-header">
     <h2 class="entry-hint-parent">用Hugo建博客
     </h2>
@@ -113,11 +145,10 @@
   <div class="entry-content">
     <p>博客搭建的第一个周末 离职不代表不写代码，未来的路，代码也许还会在生命里时常出现。
 通过这个Hugo新手教程搭建了第一个博客。 theme 虽然很想用 PaperMod，但是在安装过程中卡住了，所以选择了ananke，确实更加简单。之后或许会继续更改吧。 Hugo Themes
-因为Hugo 0.146.3版本更新导致PaperMod调用partials时出现问题，所以暂时没有必要更换主题。更新至0.146.4之后，成功换成PaperMod主题。目前hugo.toml是作为设置主题的文件，而很多过去的教程都在用config.yml。目前我还没有用到.yml。
-hugo-paperMod Example
+因为Hugo 0.146.3版本更新导致PaperMod调用partials时出现问题，所以暂时没有必要更换主题。更新至0.146.4之后，成功换成PaperMod主题。很多过去的教程都在用config.yml，所以尽管初始设置文件是hugo.toml，我还是改成了用config.yml。目前在根据PaperMod Repo做一些更新。
 目前博客的设置 Hugo version
 hugo version hugo v0.146.4&#43;extended&#43;withdeploy darwin/arm64 BuildDate=2025-04-14T13:10:30Z VendorInfo=brew Directory Tree
-.(site root) ├── hugo.toml ├── content │ ├── posts │ │ ├── first_post │ │ │ ├── index.md └── themes └── hugo-PaperMod </p>
+.(site root) ├── config.yml ├── content │ ├── posts │ │ ├── first_post │ │ │ ├── index.md │ │ │ ├── image.jpg └── themes └── hugo-PaperMod </p>
   </div>
   <footer class="entry-footer"><span title='2025-04-13 00:00:00 +0000 UTC'>April 13, 2025</span></footer>
   <a class="entry-link" aria-label="post link to 用Hugo建博客" href="http://localhost:1313/posts/blog_building/"></a>

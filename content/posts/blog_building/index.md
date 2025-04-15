@@ -4,7 +4,6 @@ date: 2025-04-13
 categories: 技术
 tags:
   - Hugo
-  - 博客
 ---
 
 ## 博客搭建的第一个周末
@@ -15,9 +14,7 @@ tags:
 theme 虽然很想用 `PaperMod`，但是在安装过程中卡住了，所以选择了`ananke`，确实更加简单。之后或许会继续更改吧。
 [Hugo Themes](https://themes.gohugo.io/)
 
-因为Hugo 0.146.3版本更新导致PaperMod调用partials时出现问题，所以暂时没有必要更换主题。更新至0.146.4之后，成功换成`PaperMod`主题。很多过去的教程都在用`config.yml`，所以尽管初始设置文件是`hugo.toml`，我还是改成了用`config.yml`。
-
-[hugo-paperMod Example](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite)
+因为Hugo 0.146.3版本更新导致PaperMod调用partials时出现问题，所以暂时没有必要更换主题。更新至0.146.4之后，成功换成`PaperMod`主题。很多过去的教程都在用`config.yml`，所以尽管初始设置文件是`hugo.toml`，我还是改成了用`config.yml`。目前在根据[PaperMod Repo](https://github.com/adityatelange/hugo-PaperMod)做一些更新。
 
 ## 目前博客的设置
 Hugo version
@@ -33,6 +30,7 @@ Directory Tree
 │   ├── posts
 │   │   ├── first_post
 │   │   │   ├── index.md
+│   │   │   ├── image.jpg
 └── themes
     └── hugo-PaperMod
 ```

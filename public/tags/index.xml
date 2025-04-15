@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Hiking</title>
+      <link>http://localhost:1313/tags/hiking/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hiking/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

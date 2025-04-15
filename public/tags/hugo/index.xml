@@ -18,7 +18,7 @@
 &lt;p&gt;通过这个&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;Hugo新手教程&lt;/a&gt;搭建了第一个博客。
 theme 虽然很想用 &lt;code&gt;PaperMod&lt;/code&gt;，但是在安装过程中卡住了，所以选择了&lt;code&gt;ananke&lt;/code&gt;，确实更加简单。之后或许会继续更改吧。
 &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;Hugo Themes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;因为Hugo 0.146.3版本更新导致PaperMod调用partials时出现问题，所以暂时没有必要更换主题。更新至0.146.4之后，成功换成&lt;code&gt;PaperMod&lt;/code&gt;主题。目前&lt;code&gt;hugo.toml&lt;/code&gt;是作为设置主题的文件，而很多过去的教程都在用&lt;code&gt;config.yml&lt;/code&gt;。目前我还没有用到&lt;code&gt;.yml&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;因为Hugo 0.146.3版本更新导致PaperMod调用partials时出现问题，所以暂时没有必要更换主题。更新至0.146.4之后，成功换成&lt;code&gt;PaperMod&lt;/code&gt;主题。很多过去的教程都在用&lt;code&gt;config.yml&lt;/code&gt;，所以尽管初始设置文件是&lt;code&gt;hugo.toml&lt;/code&gt;，我还是改成了用&lt;code&gt;config.yml&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite&#34;&gt;hugo-paperMod Example&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;目前博客的设置&#34;&gt;目前博客的设置&lt;/h2&gt;
 &lt;p&gt;Hugo version&lt;/p&gt;
@@ -26,7 +26,7 @@ theme 虽然很想用 &lt;code&gt;PaperMod&lt;/code&gt;，但是在安装过程�
 hugo v0.146.4+extended+withdeploy darwin/arm64 BuildDate=2025-04-14T13:10:30Z VendorInfo=brew
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Directory Tree&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;.(site root)
-├── hugo.toml
+├── config.yml
 ├── content
 │   ├── posts
 │   │   ├── first_post

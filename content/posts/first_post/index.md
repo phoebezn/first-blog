@@ -3,7 +3,7 @@ title: "我的第一篇博客"
 date: 2025-04-12
 categories: 日记
 tags:
-  - 博客
+  - Hiking
 ---
 ### Hello World!
 
