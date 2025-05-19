@@ -44,7 +44,7 @@ Need some practices
 
 ### Trainings at home - _One Jump Training_
 
-### Questions
+## Questions
 - Should I use clicker in agility training?
     
   - Maybe, since people can also use marker word instead of clicker in training. I'll use "Yes" as the marker word for now.
