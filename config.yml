@@ -22,7 +22,7 @@ params:
   socialIcons: # optional
     - name: github
       title: View Source on Github
-      url: "https://github.com/phoebezn/first-blog"
+      url: "https://github.com/phoebezn/"
 caches:
   images:
     dir: :cacheDir/images
