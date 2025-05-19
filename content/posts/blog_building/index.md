@@ -57,3 +57,14 @@ git submodule update --remote --merge
 
 ## Host on GitHub Pages
 [Hugo - Host on GitHub Pages](https://gohugo.io/host-and-deploy/host-on-github-pages/)
+
+## IDE
+PyCharm
+
+## Git Commands
+
+```
+git add .
+git commit -m "message"
+git push
+```
