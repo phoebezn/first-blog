@@ -40,6 +40,7 @@ Rear cross out of the three is the one that needs more practice, because the dog
 4. [ ] Add speed
 
 ### Pinwheel
+Need some practices
 
 ### Trainings at home - _One Jump Training_
 
