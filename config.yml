@@ -23,3 +23,6 @@ params:
     - name: github
       title: View Source on Github
       url: "https://github.com/phoebezn/first-blog"
+caches:
+  images:
+    dir: :cacheDir/images
