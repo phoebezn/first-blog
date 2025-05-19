@@ -2,6 +2,9 @@ baseURL: 'https://phoebezn.github.io/'
 languageCode: 'zh'
 title: '菲比的空间'
 theme: ['PaperMod']
+
+buildDrafts: false
+
 menu:
   main:
     - identifier: categories
@@ -22,7 +25,11 @@ params:
   socialIcons: # optional
     - name: github
       title: View Source on Github
-      url: "https://github.com/phoebezn/"
+      url: "https://github.com/phoebezn/phoebezn.github.io"
+
+    - name: mastodon
+      title: 长毛象
+      url: "https://m.cmx.im/@phoebeZ"
 caches:
   images:
     dir: :cacheDir/images

@@ -27,7 +27,7 @@ hugo v0.146.4+extended+withdeploy darwin/arm64 BuildDate=2025-04-14T13:10:30Z Ve
 Directory Tree
 ```
 .(site root)
-├── hugo.yaml
+├── config.yml
 ├── content
 │   ├── posts
 │   │   ├── first_post
@@ -46,7 +46,14 @@ hugo server
 
 [Hugo - Basic usage](https://gohugo.io/getting-started/usage/)
 
+## PaperMod
 
+[Install / Update PaperMod](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/)
+
+UPDATE: Inside the folder of your Hugo site, run:
+```
+git submodule update --remote --merge
+```
 
 ## Host on GitHub Pages
 [Hugo - Host on GitHub Pages](https://gohugo.io/host-and-deploy/host-on-github-pages/)
