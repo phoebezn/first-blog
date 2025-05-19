@@ -1,7 +1,7 @@
 ---
 title: "用Hugo建博客"
 date: 2025-04-13
-categories: 技术
+categories: [技术]
 tags:
   - Hugo
 ---
@@ -25,7 +25,7 @@ hugo v0.146.4+extended+withdeploy darwin/arm64 BuildDate=2025-04-14T13:10:30Z Ve
 Directory Tree
 ```
 .(site root)
-├── config.yml
+├── hugo.yaml
 ├── content
 │   ├── posts
 │   │   ├── first_post
@@ -34,3 +34,12 @@ Directory Tree
 └── themes
     └── hugo-PaperMod
 ```
+
+## Basic usage
+
+To view your site while developing layouts or creating content, cd into your project directory and run:
+```
+hugo server
+```
+
+[Hugo - Basic usage](https://gohugo.io/getting-started/usage/)
