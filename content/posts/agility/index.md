@@ -1,9 +1,14 @@
 ---
-title: "Agility"
+title: "Agility Training"
 date: 2025-04-16
 categories: [狗狗]
 tags:
   - Agility
+cover:
+  image: "2025-04-13_branch.jpg"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 ## Trainer
@@ -16,8 +21,10 @@ Agility Ebook
 
 Agility Brochure
 [A Beginner's Guide to Agility](https://images.akc.org/pdf/events/agility/Agility_Brochure.pdf)
+---
+## Techniques
 
-## 3 different crosses
+### 3 different crosses
 > Handling Terms – “Cross in front,” “cross behind,” and “blind cross,” refer to the handler’s position to the dog that is running the course.
 
 There are 3 different way to switch one side of the dog to the other side. Front cross and blind cross are both in front of the dog, but blind cross is crossing without looking at the dog. Blind cross is supposed to be more efficient.
@@ -27,7 +34,6 @@ There are 3 different way to switch one side of the dog to the other side. Front
 
 Rear cross out of the three is the one that needs more practice, because the dog may follow the handler and end up doing an extra turn. The first step is to practice with the dog when he's in sit stay position, and then let him jump after rear cross.
 
-## Techniques
 ### Rear cross 
 1. [x] Start without jumps and make sure dog can sit stay while you rear cross
 {{< youtube C6TaZhcrXTM >}}
@@ -44,10 +50,11 @@ Rear cross out of the three is the one that needs more practice, because the dog
 4. [ ] Add speed
 
 ### Pinwheel
-Need some practices
+- [ ] Need some practices
 
 ### Trainings at home - _One Jump Training_
 
+---
 ## Questions
 - Should I use clicker in agility training?
     

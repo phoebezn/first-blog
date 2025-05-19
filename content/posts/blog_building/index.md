@@ -36,23 +36,28 @@ Directory Tree
 └── themes
     └── PaperMod
 ```
-
+---
 ## Basic usage
+
+[Hugo - Basic usage](https://gohugo.io/getting-started/usage/)
 
 To view your site while developing layouts or creating content, cd into your project directory and run:
 ```
 hugo server
 ```
 
-[Hugo - Basic usage](https://gohugo.io/getting-started/usage/)
-
 ## PaperMod
 
-[Install / Update PaperMod](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/)
+- [Install / Update PaperMod](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/)
 
 UPDATE: Inside the folder of your Hugo site, run:
 ```
 git submodule update --remote --merge
+```
+
+- Draft Posts
+```
+draft: true
 ```
 
 ## Host on GitHub Pages

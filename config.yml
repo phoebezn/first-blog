@@ -20,7 +20,7 @@ params:
   TocOpen: true
   homeInfoParams:
     Title: 你好 👋
-    Content: 欢迎来到菲比的空间...
+    Content: 欢迎来到菲比和狗狗的空间...
 
   socialIcons: # optional
     - name: github
