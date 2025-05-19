@@ -4,6 +4,8 @@ date: 2025-04-13
 categories: [技术]
 tags:
   - Hugo
+  - 建站
+  - PaperMod
 ---
 
 ## 博客搭建的第一个周末
@@ -32,7 +34,7 @@ Directory Tree
 │   │   │   ├── index.md
 │   │   │   ├── image.jpg
 └── themes
-    └── hugo-PaperMod
+    └── PaperMod
 ```
 
 ## Basic usage
@@ -43,3 +45,8 @@ hugo server
 ```
 
 [Hugo - Basic usage](https://gohugo.io/getting-started/usage/)
+
+
+
+## Host on GitHub Pages
+[Hugo - Host on GitHub Pages](https://gohugo.io/host-and-deploy/host-on-github-pages/)

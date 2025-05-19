@@ -6,6 +6,10 @@ tags:
   - Agility
 ---
 
+## Trainer
+Anne
+[On Good Behavior LLC](https://ongoodbehavior.com/agility/)
+
 ## AKC Material
 Agility Ebook
 [Agility For Beginners](https://images.akc.org/pdf/ebook/Agility_NEW.pdf)
