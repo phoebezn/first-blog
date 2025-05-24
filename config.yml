@@ -18,6 +18,8 @@ menu:
 params:
   ShowToc: true
   TocOpen: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
   homeInfoParams:
     Title: 你好 👋
     Content: 欢迎来到菲比和狗狗的空间...
